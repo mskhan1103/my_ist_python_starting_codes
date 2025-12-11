@@ -130,10 +130,3 @@ License
 MIT License
 
 
----
-
-This **covers multiple topics**, is **example-focused**, and is perfect for a **Python learning repo**.  
-
-If you want, I can also **make an enhanced version with a clickable Table of Contents** linking each topic to its folder, so it looks professional on GitHub.  
-
-Do you want me to do that?
